@@ -100,3 +100,5 @@ Solutions by [rheallyc](https://codeforces.com/profile/rheallyc) (Codeforces Mas
 | [Eye-Pleasing City Park Tour](https://codeforces.com/problemset/problem/1575/E) | 2600 | data structures, trees | C++17 (GCC 7-32) |
 | [Phoenix and Odometers](https://codeforces.com/problemset/problem/1515/G) | 2700 | dfs and similar, graphs, math, number theory | C++17 (GCC 7-32) |
 | [Kingdom of Islands](https://codeforces.com/problemset/problem/1578/K) | 2800 | brute force, graphs, implementation | C++17 (GCC 7-32) |
+
+<!-- maintenance note: Add a short complexity note to the header of a randomly sampled solution. (2026-08-19) -->
