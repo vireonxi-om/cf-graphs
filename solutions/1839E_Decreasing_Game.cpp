@@ -109,4 +109,4 @@ int main() {
 		}
 	}
 	return 0;
-}
+}// maintenance note (2): minor readability pass on this file — 2026-08-22
