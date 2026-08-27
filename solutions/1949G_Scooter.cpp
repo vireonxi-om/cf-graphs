@@ -157,3 +157,4 @@ int main() {
 CCCMMMMC---
 MMMCC---CCM
 */
+// maintenance note (4): small formatting cleanup on this file — 2026-08-27
