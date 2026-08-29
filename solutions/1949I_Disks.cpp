@@ -92,3 +92,4 @@ int main() {
     else cout << "NO\n";
     return 0;
 }
+// maintenance note (5): add editorial link comment to this file — 2026-08-29
