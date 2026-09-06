@@ -80,4 +80,4 @@ int main() {
 		else cout << "\n";
 	}
 	return 0;
-}
+}// maintenance note (8): add edge-case comment to this file — 2026-09-06
